@@ -24,7 +24,7 @@
 
 通过`Element Plus`中的`Menu`组件进行菜单栏的显示以及路由的管理；并使用`Cesium`内部三维地形底图结合模型数据实现模型的展示。
 
-![](https://gitee.com/guo-changxiong/store_image/raw/master/teashop_images/homepage.jpg)
+![](https://gitee.com/guo-changxiong/store_image/raw/master/cesium_images/cesium1.gif)
 
 ### 影像展示
 
@@ -32,7 +32,7 @@
 
 结合`Cesium`中的相关方法，让场景中的相机进行跳转，跳转到目标影像区域。
 
-![](http://pic1.win4000.com/wallpaper/2020-04-26/5ea5352b91fbd.jpg)
+![](https://gitee.com/guo-changxiong/store_image/raw/master/cesium_images/cesium2.gif)
 
 ## 运行项目（Node.js 12.0+）
 
