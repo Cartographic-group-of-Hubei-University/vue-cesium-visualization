@@ -28,11 +28,11 @@
 
 ### 影像展示
 
-使用`Cesium`对处理后的tif影像进行显示，并使用`Element Plus`中的`Menu`组件对影像跳转操作进行提示。
+使用`Cesium`对处理后的tif影像进行显示，并使用`Element Plus`中的`Notification`组件对影像跳转操作进行提示。
 
 结合`Cesium`中的相关方法，让场景中的相机进行跳转，跳转到目标影像区域。
 
-![](https://gitee.com/guo-changxiong/store_image/raw/master/cesium_images/cesium2.gif)
+![](http://pic1.win4000.com/wallpaper/2020-04-26/5ea5352b91fbd.jpg)
 
 ## 运行项目（Node.js 12.0+）
 
