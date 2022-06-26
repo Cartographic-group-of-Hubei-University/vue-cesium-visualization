@@ -32,7 +32,7 @@
 
 结合`Cesium`中的相关方法，让场景中的相机进行跳转，跳转到目标影像区域。
 
-![](https://gitee.com/guo-changxiong/store_image/raw/master/cesium_images/cesium2.gif)
+![](https://lmg.jj20.com/up/allimg/4k/s/02/210925003609C07-0-lp.jpg)
 
 ## 运行项目（Node.js 12.0+）
 
