@@ -32,7 +32,7 @@
 
 结合`Cesium`中的相关方法，让场景中的相机进行跳转，跳转到目标影像区域。
 
-![cesium](https://github.com/Cartographic-group-of-Hubei-University/vue-cesium-visualization/raw/master/images/cesium2.gif)
+<div align=center><img src="https://github.com/Cartographic-group-of-Hubei-University/vue-cesium-visualization/raw/master/images/cesium2.gif"></div>
 
 ## 运行项目（Node.js 12.0+）
 
