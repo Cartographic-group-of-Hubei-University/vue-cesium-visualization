@@ -24,7 +24,7 @@
 
 通过`Element Plus`中的`Menu`组件进行菜单栏的显示以及路由的管理；并使用`Cesium`内部三维地形底图结合模型数据实现模型的展示。
 
-![cesium]([https://github.com/Cartographic-group-of-Hubei-University/vue-cesium-visualization/raw/master/images/cesium1.gif]#pic_center)
+<div align=center><img src="https://github.com/Cartographic-group-of-Hubei-University/vue-cesium-visualization/raw/master/images/cesium1.gif"></div>
 
 ### 影像展示
 
