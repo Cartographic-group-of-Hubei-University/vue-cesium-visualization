@@ -4,7 +4,7 @@
 
 > 本项目为三维可视化项目，前端框架采用 [Vite](https://vitejs.cn/) 和 [Vue3](https://v3.cn.vuejs.org/) ；三维可视化框架采用 [Cesium](https://www.cesium.com/) ；UI组件框架采用 [Element Plus](https://element-plus.gitee.io/zh-CN/) 。
 
-> 本项目为课题组项目，课题组名称为`多源时空数据可视化小组`，小组的github地址在[这里](https://github.com/Cartographic-group-of-Hubei-University)。本课题组一直从事于`数据可视化开发`的相关工作，有丰富的数据可视化经验，对很多的可视化框架如[Cesium](https://www.cesium.com/)、[babylon.js](https://www.babylonjs.com/)、[MapBox GL](http://www.mapbox.cn/mapbox-gl-js/api/)、[ECharts](https://echarts.apache.org/zh/index.html)、[Highcharts](https://www.highcharts.com.cn/)等有着项目实战经验。
+> 本项目为课题组项目，课题组名称为`Smart Map小组`，小组的github地址在[这里](https://github.com/Cartographic-group-of-Hubei-University)。本课题组一直从事于`数据可视化开发`的相关工作，有丰富的数据可视化经验，对很多的可视化框架如[Cesium](https://www.cesium.com/)、[babylon.js](https://www.babylonjs.com/)、[MapBox GL](http://www.mapbox.cn/mapbox-gl-js/api/)、[ECharts](https://echarts.apache.org/zh/index.html)、[Highcharts](https://www.highcharts.com.cn/)等有着项目实战经验。
 
 > 项目目前还在研发阶段，后期将会陆续完善项目，开发其他相关的功能及交互，如果您有疑问请直接在 Issues 中进行提问，欢迎大家积极提问。
 
