@@ -54,3 +54,23 @@ npm run dev
 
 npm run build
 ```
+
+## 开发环境(For Developer)
+
+> 如果您想根据该项目进行自己的相关开发，可以参照下面的步骤来进行。
+
+- **首先，您需要编写自己的组件，在组件中实现三维模型可视化及相关的交互逻辑。您可以在`src/components`文件夹下实现自己的组件。**
+
+- **其次，您需要注册自己的路由(即在`src/router/index.js`文件中添加自己的路由地址)，具体位置如下图所示。**
+
+<div align=center><img src="https://github.com/Cartographic-group-of-Hubei-University/vue-cesium-visualization/raw/master/images/cesium2.gif"></div>
+
+首先需要在`index.js`中导入对应的组件，然后在`routes`中添加对应模块的<strong>路由地址(path)</strong>、<strong>名称(name)</strong>以及<strong>组件(component)</strong>。
+
+- **之后，您需要在`App.vue`中修改对应的目录树名称，并添加对应的路由链接，以此来实现点击目录树跳转到对应的路由地址并显示相关的组件。**
+
+<div align=center><img src="https://github.com/Cartographic-group-of-Hubei-University/vue-cesium-visualization/raw/master/images/cesium2.gif"></div>
+
+修改的位置如上图所示。其中`<el-menu-item index="xxx">xxx</el-menu-item>`为一个导航栏，您可以修改导航栏的名称；导航栏中的`index`属性的属性值为<strong>路由地址</strong>，您只需要将之前自己创建的路由地址与之进行替换就行了。之后，你只需要点击对应的导航栏，就可以跳转到对应的路由链接，显示相应的组件了。
+
+- **最后，由于本项目没有涉及到后端的相关操作，您可以将组件使用到的模型数据统一放在`public/cesiumData`文件夹下，在使用`Cesium`或者其他框架进行可视化展示的时候，以`./cesiumData/xxx`为数据地址即可获取到对应的模型数据。**
