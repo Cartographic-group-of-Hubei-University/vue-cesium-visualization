@@ -43,7 +43,7 @@ git clone https://github.com/Cartographic-group-of-Hubei-University/vue-cesium-v
 
 2. 进入文件夹并安装依赖
 
-cd vue-store
+cd vue-cesium-visualization
 npm install
 
 3. 开启本地服务
